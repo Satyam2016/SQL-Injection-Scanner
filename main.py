@@ -133,7 +133,7 @@ def scan_sql_injection(url):
                 print("[+] Form:")
                 pprint(form_details)
                 break
-#adding one comment
+
 
 if __name__ == "__main__":
     url = "https://example.com/"
